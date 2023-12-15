@@ -17,7 +17,7 @@ def request():
     user_request = input("Enter an ingredient: ")
     result_recipes = search_recipe(user_request)
     #print(user_request)
-    #print(result_recipes)
+    print(result_recipes)
 
     if not result_recipes:
         print(f"No recipes found for {user_request}.")
@@ -27,5 +27,23 @@ def request():
         for result_recipe in result_recipes:
             recipe = result_recipe['recipe']
             print(recipe['label'])
+            print(recipe['uri'])
+            print(recipe['mealType'][0])
+            print(recipe['dishType'][0])
+            
+            ingredients = recipe['ingredients']
+            
+            # Iterating through ingredients list
+            for ingredient_info in ingredients:
+                print(f"{ingredient_info['text']} {ingredient_info['quantity']}")
+                #print(f"Quantity: {ingredient_info['quantity']}")
+            
+            instruction_lines = recipe.get('instructionLines', [])
+            if instruction_lines:
+                print("Instruction:")
+                for instruction in instruction_lines:
+                    print(f" - {instruction}")
+            else:
+                print("No instruction lines available.")
     
 request()
