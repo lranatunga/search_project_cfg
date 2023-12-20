@@ -1,0 +1,117 @@
+Recipe: Cheese Omelette
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_fd4777a5991711dbe7206cff25f84ff5
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 organic large egg 1.0
+1 teaspoon whole milk or water 1.0
+1 tablespoon cheddar cheese, shredded (you can use other types of cheese) 1.0
+1 teaspoon butter or oil 1.0
+Instructions:
+ - Whisk the egg and milk in a bowl with a fork until thoroughly combined.
+ - Melt butter in a 6 or 8-inch omelette pan over medium heat (approximately 30 seconds) making sure it coats the bottom of the pan.
+ - As soon as the butter stops bubbling (and before it starts to brown) slowly pour in the egg mixture.
+ - Pour in the egg mixture tilting the pan to spread it evenly.
+ - Let the egg firm up a little, and after about ten-seconds shake the pan a bit and use a spatula to gently direct the mixture away from the sides and into the middle.
+ - Allow the remaining liquid to then flow into the space left at the sides of the pan.
+ - Continue to cook for another minute or so until the egg mixture holds together.
+ - Do not let the underside of the eggs brown.
+ - Sprinkle the top with the shredded cheese and with a spatula; gently fold the omelette in a half moon shape.
+ - Continue to cook another 30 seconds or until the omelette is thoroughly cooked through.
+ - Cool, cut into bite size pieces and serve.
+
+Recipe: Cheese straws
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_bdcad12ebbdbb005d5ff07401c4ca0e7
+Meal Type: lunch/dinner
+Dish Type: starter
+Ingredients:
+375g/13oz plain flour 375.0
+Pinch salt 1.0
+225g/8oz butter, diced 225.0
+150g/5½oz mature cheddar cheese 150.0
+50g/1¾oz freshly grated parmesan cheese (or a similar vegetarian hard cheese) 50.0
+Pinch english mustard powder 1.0
+Small pinch cayenne pepper 1.0
+2 free-range eggs, yolks only 2.0
+Instructions:
+ - Sift the flour and a pinch of salt into a bowl.
+ - Using your fingertips, rub in the butter until all the lumps are gone and the texture is like fine breadcrumbs.
+ - Stir in the cheese, mustard powder, cayenne, and egg yolks.
+ - Add 4-5 tablespoons of cold water and mix to a firm dough.
+ - Wrap in cling film and chill in the fridge for 30 minutes.
+ - Preheat the oven to 190C/375F/Gas 5.
+ - Line a baking sheet with baking parchment.
+ - Roll out the dough to a square, roughly the thickness of a £2 coin.
+ - Cut the square in half, then cut each half into 1cm/½in strips.
+ - Transfer carefully onto the lined baking sheet and bake for 10-15 minutes, until crisp, then leave to cool on the tray.
+
+Recipe: CHEESE GOOP
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1d7d670894c66f3c6628d78ce4936006
+Meal Type: lunch/dinner
+Dish Type: starter
+Ingredients:
+1 cup asiago cheese, grated 1.0
+1 cup fontina cheese, grated 1.0
+1 cup parmesan, grated 1.0
+1 cup mayonnaise 1.0
+3/4 cup olive oil 0.75
+1 tablespoon dried basil 1.0
+1 tablespoon red pepper flakes 1.0
+1/4 cup green onions, chopped 0.25
+Instructions:
+ - Dump all the ingredients into a blender or food processor.
+ - Pulse the blender to incorporate all the ingredients.
+ - If the Goop is too thick, add a little more olive oil to thin.
+ - Serve with crudities or on crostini.
+ - You can also spread it on French bread slices and broil for a few minutes, until bubbly.
+
+Recipe: Pimento Cheese
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b92977f3bbf8be25ccbd908ad4b9d4d9
+Meal Type: lunch/dinner
+Dish Type: condiments and sauces
+Ingredients:
+4 ounces, weight Cream Cheese, Softened 4.0
+1/2 cup Mayonnaise 0.5
+1 Tablespoon Dijon Mustard (more To Taste) 1.0
+1 Tablespoon Adobo Sauce From Canned Chipotles (more To Taste) 1.0
+1/2 teaspoon Black Pepper 0.5
+8 ounces, weight Sharp Cheddar Cheese, Grated 8.0
+8 ounces, weight Monterey Jack Or Mozzarella Cheese, Grated 8.0
+4 ounces, weight Sliced Pimentos, Drained 4.0
+2 teaspoons Chopped Fresh Dill 2.0
+Instructions:
+No instruction lines available.
+
+Recipe: Five Cheese Skillet Mac and Cheese recipes
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_40b9a26be3f4b504f08f81c8331431eb
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+8 ounces elbow pasta 8.0
+1/4 cup unsalted butter 0.25
+3 tablespoons all-purpose flour 3.0
+2 cups whole milk 2.0
+1/4 teaspoon cayenne pepper 0.25
+1/4 teaspoon paprika 0.25
+black pepper 0.0
+salt 0.0
+3 ounces mild white cheddar cheese, shredded (about 1 cup shredded) 3.0
+3 ounces Gruyere cheese, shredded (about 1 cup shredded) 3.0
+2 ounces Pecorino cheese, finely shredded (about 3/4 cup shredded) 2.0
+2 ounces Camembert cheese, rind removed and cut into small chunks 2.0
+1 ounce (2 slices) white American cheese, finely chopped 1.0
+1/4 cup Panko bread crumbs 0.25
+Instructions:
+No instruction lines available.
+
+Recipe: Four-Cheese Macaroni and Cheese
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_35993f0e728c9a9af8941e2a7275b6a9
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+Nonstick cooking spray 0.0
+1 pound butternut squash, halved and seeded 1.0
+8 ounces dried whole-grain elbow macaroni 8.0
+4 teaspoons butter 4.0
+2 tablespoons all-purpose flour 2.0
+½ teaspoon salt 0.5

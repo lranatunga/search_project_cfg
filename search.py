@@ -13,11 +13,33 @@ def search_recipe(ingredient):
     #print(result)
     return (result)
 
+def save_recipe_to_file(recipe):
+    with open('saved_recipes.txt', 'a') as recipe_file:
+        recipe_file.write(f"Recipe: {recipe['label']}\n")
+        recipe_file.write(f"URI: {recipe['uri']}\n")
+        recipe_file.write(f"Meal Type: {recipe['mealType'][0]}\n")
+        recipe_file.write(f"Dish Type: {recipe['dishType'][0]}\n")
+
+        ingredients = recipe['ingredients']
+        recipe_file.write("Ingredients:\n")
+        for ingredient_info in ingredients:
+            recipe_file.write(f"{ingredient_info['text']} {ingredient_info['quantity']}\n")
+
+        instruction_lines = recipe.get('instructionLines', [])
+        recipe_file.write("Instructions:\n")
+        if instruction_lines:
+            for instruction in instruction_lines:
+                recipe_file.write(f" - {instruction}\n")
+        else:
+            recipe_file.write("No instruction lines available.\n")
+
+        recipe_file.write("\n")
+
 def request():
     user_request = input("Enter an ingredient: ")
     result_recipes = search_recipe(user_request)
     #print(user_request)
-    print(result_recipes)
+    #print(result_recipes)
 
     if not result_recipes:
         print(f"No recipes found for {user_request}.")
@@ -45,5 +67,8 @@ def request():
                     print(f" - {instruction}")
             else:
                 print("No instruction lines available.")
+            
+            save_recipe_to_file(recipe)
     
 request()
+
