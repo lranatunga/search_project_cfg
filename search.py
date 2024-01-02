@@ -48,10 +48,10 @@ def request():
         print(f"Recipes containing {user_request}")
         for result_recipe in result_recipes:
             recipe = result_recipe['recipe']
-            print(recipe['label'])
-            print(recipe['uri'])
-            print(recipe['mealType'][0])
-            print(recipe['dishType'][0])
+            print(f"recipe['label']\n")
+            print(f"recipe['uri']\n")
+            print(f"recipe['mealType'][0]\n")
+            print(f"recipe['dishType'][0]\n")
             
             ingredients = recipe['ingredients']
             
@@ -64,9 +64,9 @@ def request():
             if instruction_lines:
                 print("Instruction:")
                 for instruction in instruction_lines:
-                    print(f" - {instruction}")
+                    print(f" - {instruction}\n")
             else:
-                print("No instruction lines available.")
+                print(f"No instruction lines available.\n")
             
             save_recipe_to_file(recipe)
     
