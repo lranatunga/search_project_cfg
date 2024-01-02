@@ -8,17 +8,7 @@ Ingredients:
 1 tablespoon cheddar cheese, shredded (you can use other types of cheese) 1.0
 1 teaspoon butter or oil 1.0
 Instructions:
- - Whisk the egg and milk in a bowl with a fork until thoroughly combined.
- - Melt butter in a 6 or 8-inch omelette pan over medium heat (approximately 30 seconds) making sure it coats the bottom of the pan.
- - As soon as the butter stops bubbling (and before it starts to brown) slowly pour in the egg mixture.
- - Pour in the egg mixture tilting the pan to spread it evenly.
- - Let the egg firm up a little, and after about ten-seconds shake the pan a bit and use a spatula to gently direct the mixture away from the sides and into the middle.
- - Allow the remaining liquid to then flow into the space left at the sides of the pan.
- - Continue to cook for another minute or so until the egg mixture holds together.
- - Do not let the underside of the eggs brown.
- - Sprinkle the top with the shredded cheese and with a spatula; gently fold the omelette in a half moon shape.
- - Continue to cook another 30 seconds or until the omelette is thoroughly cooked through.
- - Cool, cut into bite size pieces and serve.
+No instruction lines available.
 
 Recipe: Cheese straws
 URI: http://www.edamam.com/ontologies/edamam.owl#recipe_bdcad12ebbdbb005d5ff07401c4ca0e7
@@ -34,16 +24,7 @@ Pinch english mustard powder 1.0
 Small pinch cayenne pepper 1.0
 2 free-range eggs, yolks only 2.0
 Instructions:
- - Sift the flour and a pinch of salt into a bowl.
- - Using your fingertips, rub in the butter until all the lumps are gone and the texture is like fine breadcrumbs.
- - Stir in the cheese, mustard powder, cayenne, and egg yolks.
- - Add 4-5 tablespoons of cold water and mix to a firm dough.
- - Wrap in cling film and chill in the fridge for 30 minutes.
- - Preheat the oven to 190C/375F/Gas 5.
- - Line a baking sheet with baking parchment.
- - Roll out the dough to a square, roughly the thickness of a �2 coin.
- - Cut the square in half, then cut each half into 1cm/�in strips.
- - Transfer carefully onto the lined baking sheet and bake for 10-15 minutes, until crisp, then leave to cool on the tray.
+No instruction lines available.
 
 Recipe: CHEESE GOOP
 URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1d7d670894c66f3c6628d78ce4936006
@@ -59,11 +40,7 @@ Ingredients:
 1 tablespoon red pepper flakes 1.0
 1/4 cup green onions, chopped 0.25
 Instructions:
- - Dump all the ingredients into a blender or food processor.
- - Pulse the blender to incorporate all the ingredients.
- - If the Goop is too thick, add a little more olive oil to thin.
- - Serve with crudities or on crostini.
- - You can also spread it on French bread slices and broil for a few minutes, until bubbly.
+No instruction lines available.
 
 Recipe: Pimento Cheese
 URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b92977f3bbf8be25ccbd908ad4b9d4d9
@@ -115,3 +92,581 @@ Nonstick cooking spray 0.0
 4 teaspoons butter 4.0
 2 tablespoons all-purpose flour 2.0
 � teaspoon salt 0.5
+Recipe: The Crispy Egg
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_db742742099859a8053b992dd3c1f452
+Meal Type: lunch/dinner
+Dish Type: starter
+Ingredients:
+1 glug olive oil or cooking fat of your choice 1.0
+1 egg, any size 1.0
+Salt, pepper, herbs, spices or hot sauce, or all of the above 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Noodle
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b958fb2af215767c51d7545e2f86a722
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+2 cups all-purpose flour 2.0
+1 cup semolina flour (plus extra for the board) 1.0
+1/2 teaspoon salt 0.5
+2 eggs, plus 4 egg yolks, beaten together 2.0
+2 eggs, plus 4 egg yolks, beaten together 4.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Sandwich
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_933bb646e98e78fd55259e9c743a93cc
+Meal Type: lunch/dinner
+Dish Type: sandwiches
+Ingredients:
+1 ounce fontina fontal cheese 1.0
+2 slices extra-smoky, extra-thick cut bacon 2.0
+1 English muffin, split 1.0
+1 large egg 1.0
+Coarse salt and freshly ground pepper 0.0
+Coarse salt and freshly ground pepper 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Nests recipes
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4f1d223cf3c5f30b53c6d972d2ea98ec
+Meal Type: lunch/dinner
+Dish Type: starter
+Ingredients:
+2 eggs 2.0
+1/8 teaspoon Kosher salt (a pinch of salt per egg) 0.125
+1/4 cup grated Gruyere cheese 0.25
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Pancakes
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_555ecd7b216b8fa941384415a8053d61
+Meal Type: breakfast
+Dish Type: pancake
+Ingredients:
+1 large egg 1.0
+1 pinch salt 1.0
+2 tablespoons all-purpose flour 2.0
+� cup milk (whole preferable) 0.25
+butter for frying 0.0
+brown sugar or other topping 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Sunny Egg Ravioli
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_139d4b93784f42c3264f3801d54c5923
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+200 g Flour, Italian Type 00 200.0
+2 x Eggs 2.0
+Salt 0.0
+200 g Ricotta 200.0
+1-2 tbsp Olive Oil 1.5
+1 handful freshly grated Parmesan 1.0
+fresh herbs, mixed like basil, parsley,thyme 0.0
+1 x Red Chilli chopped 1.0
+Freshly ground black pepper to taste 0.0
+freshly ground nutmeg 0.0
+Sea Salt 0.0
+Egg Yolks 0.0
+Egg White 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Nog
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a82cfd564d2c8ee62cfe834722b73f7d
+Meal Type: breakfast
+Dish Type: drinks
+Ingredients:
+2 cups heavy whipping cream 2.0
+1 dozen egg yolks 12.0
+2 Tbsp. vanilla extract 2.0
+� tsp. nutmeg , plus more to taste 0.5
+1� cups sugar 1.5
+4 cups half and half 4.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Muffin
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_92f86a550d28a48fe348ac5d9ab68eb1
+Meal Type: breakfast
+Dish Type: desserts
+Ingredients:
+1 whole wheat english muffin 1.0
+3 egg whites 3.0
+1/2 teaspoon olive oil 0.5
+1 veggie sausage patty 1.0
+1 small banana 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Egg Nog
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1d8858a3b279938afd4d46e980b0bb2a
+Meal Type: breakfast
+Dish Type: drinks
+Ingredients:
+1 oz. Baileys Irish Cream 1.0
+.25 oz. Bushmills Original Irish Whiskey 0.25
+1 whole egg 1.0
+2 cups milk 2.0
+1 pinch nutmeg 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Microwaved Poached Egg
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_38c8916ecc55f1ddc521b80846138977
+Meal Type: lunch/dinner
+Dish Type: starter
+Ingredients:
+1 Cup water 1.0
+1 egg 1.0
+1 Teaspoon vinegar 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Vesuvio
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1/2 cup olive oil 0.5
+5 cloves garlic, peeled 5.0
+2 large russet potatoes, peeled and cut into chunks 2.0
+1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs) 3.5
+3/4 cup white wine 0.75
+3/4 cup chicken stock 0.75
+3 tablespoons chopped parsley 3.0
+1 tablespoon dried oregano 1.0
+Salt and pepper 0.0
+Salt and pepper 0.0
+1 cup frozen peas, thawed 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Paprikash
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_8275bb28647abcedef0baaf2dcf34f8b
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+1/2 teaspoon salt 0.5
+1/4 teaspoon black pepper 0.25
+1 tablespoon butter � cultured unsalted (or olive oil) 1.0
+240 grams onion sliced thin (1 large onion) 1.0
+70 grams Anaheim pepper chopped (1 large pepper) 1.0
+25 grams paprika (about 1/4 cup) 0.25
+1 cup chicken stock 1.0
+1/2 teaspoon salt 0.5
+1/2 cup sour cream 0.5
+1 tablespoon flour � all-purpose 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Baked Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on 6.0
+1/2 teaspoon coarse salt 0.5
+1/2 teaspoon Mrs. Dash seasoning 0.5
+1/4 teaspoon freshly ground black pepper 0.25
+Instructions:
+No instruction lines available.
+
+Recipe: Catalan Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956
+Meal Type: lunch/dinner
+Dish Type: condiments and sauces
+Ingredients:
+1 whole 4-pound chicken, quartered 1.0
+8 slices bacon 8.0
+30 cloves garlic 30.0
+3 lemons, peeled, rinds thinly sliced and reserved 3.0
+� cup Banyuls or another fortified dessert wine 0.5
+1 cup veal or chicken stock 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Stew
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 pound chicken cut in pieces 1.0
+4 carrots 4.0
+1 onion 1.0
+1 leek 1.0
+1 green pepper 1.0
+kosher salt 0.0
+Freshly ground black pepper 0.0
+Extra Virgin Olive Oil 0.0
+1 cup white wine 1.0
+Chicken broth 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Persian Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+2 large onions 2.0
+750 g chicken 750.0
+500 g mushrooms 500.0
+1 cup water 1.0
+1 cup red wine 1.0
+2 teaspoons chicken stock 2.0
+200 ml mayonnaise 200.0
+200 ml cream 200.0
+small bunch of parsley 1.0
+1 teaspoon curry powder 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Kreplach (Chicken Dumplings)
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1� teaspoons canola oil 1.5
+� small shallot, finely chopped 0.5
+1 cup (about � pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
+Recipe: Chicken Vesuvio
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1/2 cup olive oil 0.5
+5 cloves garlic, peeled 5.0
+2 large russet potatoes, peeled and cut into chunks 2.0
+1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs) 3.5
+3/4 cup white wine 0.75
+3/4 cup chicken stock 0.75
+3 tablespoons chopped parsley 3.0
+1 tablespoon dried oregano 1.0
+Salt and pepper 0.0
+Salt and pepper 0.0
+1 cup frozen peas, thawed 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Paprikash
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_8275bb28647abcedef0baaf2dcf34f8b
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+1/2 teaspoon salt 0.5
+1/4 teaspoon black pepper 0.25
+1 tablespoon butter – cultured unsalted (or olive oil) 1.0
+240 grams onion sliced thin (1 large onion) 1.0
+70 grams Anaheim pepper chopped (1 large pepper) 1.0
+25 grams paprika (about 1/4 cup) 0.25
+1 cup chicken stock 1.0
+1/2 teaspoon salt 0.5
+1/2 cup sour cream 0.5
+1 tablespoon flour – all-purpose 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Baked Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on 6.0
+1/2 teaspoon coarse salt 0.5
+1/2 teaspoon Mrs. Dash seasoning 0.5
+1/4 teaspoon freshly ground black pepper 0.25
+Instructions:
+No instruction lines available.
+
+Recipe: Catalan Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956
+Meal Type: lunch/dinner
+Dish Type: condiments and sauces
+Ingredients:
+1 whole 4-pound chicken, quartered 1.0
+8 slices bacon 8.0
+30 cloves garlic 30.0
+3 lemons, peeled, rinds thinly sliced and reserved 3.0
+½ cup Banyuls or another fortified dessert wine 0.5
+1 cup veal or chicken stock 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Stew
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 pound chicken cut in pieces 1.0
+4 carrots 4.0
+1 onion 1.0
+1 leek 1.0
+1 green pepper 1.0
+kosher salt 0.0
+Freshly ground black pepper 0.0
+Extra Virgin Olive Oil 0.0
+1 cup white wine 1.0
+Chicken broth 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Persian Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+2 large onions 2.0
+750 g chicken 750.0
+500 g mushrooms 500.0
+1 cup water 1.0
+1 cup red wine 1.0
+2 teaspoons chicken stock 2.0
+200 ml mayonnaise 200.0
+200 ml cream 200.0
+small bunch of parsley 1.0
+1 teaspoon curry powder 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Kreplach (Chicken Dumplings)
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1½ teaspoons canola oil 1.5
+½ small shallot, finely chopped 0.5
+1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
+⅔ cup (about ¼ pound) chicken skin and fat (reserved from the 3 chicken thighs) 0.25
+2 chicken livers (optional) 2.0
+2 garlic cloves, finely chopped 2.0
+¼ cup finely chopped chives, plus extra for serving 0.25
+1¼ teaspoons kosher salt 1.25
+¾ teaspoon freshly ground black pepper 0.75
+30 to 34 square wonton wrappers 32.0
+8 cups store-bought or homemade chicken broth 8.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken cacciatore
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a6ee2e431ba83557209f48e1cf194f2f
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+8 tbsp olive oil 8.0
+1 onion, sliced 1.0
+2 celery stalks, roughly chopped 2.0
+2 medium carrots, roughly chopped 2.0
+6 chicken breasts, or chicken thighs, bones removed 6.0
+175ml/6fl oz white wine 175.0
+3 tbsp tomato purée 3.0
+500ml/17 fl oz chicken stock 500.0
+2 bay leaves 2.0
+2-3 sage leaves 2.5
+1 rosemary sprig 1.0
+250g/9oz easy-cook polenta 250.0
+Knob of butter 1.0
+25g/1oz parmesan 25.0
+Instructions:
+No instruction lines available.
+
+Recipe: Roast Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_690c3797b4f56fc1e119c14096d651c5
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 whole chicken, about 3-4 pounds 3.5
+-- Salt and fresh-ground pepper, to taste 0.0
+3 to 4 sprigs thyme, or other herbs 3.5
+-- Olive oil, to taste 0.0
+-- Chicken stock (optional) 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Crêpes
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_5ab36d4181b4f838057a0b46ac7df041
+Meal Type: lunch/dinner
+Dish Type: desserts
+Ingredients:
+3 tablespoons grated Parmesan cheese 3.0
+¼ cup heavy cream 0.25
+12 savory crêpes 12.0
+2 cups white and dark meat from poached chicken , cut into ½-inch cubes 2.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Vesuvio
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1/2 cup olive oil 0.5
+5 cloves garlic, peeled 5.0
+2 large russet potatoes, peeled and cut into chunks 2.0
+1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs) 3.5
+3/4 cup white wine 0.75
+3/4 cup chicken stock 0.75
+3 tablespoons chopped parsley 3.0
+1 tablespoon dried oregano 1.0
+Salt and pepper 0.0
+Salt and pepper 0.0
+1 cup frozen peas, thawed 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Paprikash
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_8275bb28647abcedef0baaf2dcf34f8b
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
+1/2 teaspoon salt 0.5
+1/4 teaspoon black pepper 0.25
+1 tablespoon butter – cultured unsalted (or olive oil) 1.0
+240 grams onion sliced thin (1 large onion) 1.0
+70 grams Anaheim pepper chopped (1 large pepper) 1.0
+25 grams paprika (about 1/4 cup) 0.25
+1 cup chicken stock 1.0
+1/2 teaspoon salt 0.5
+1/2 cup sour cream 0.5
+1 tablespoon flour – all-purpose 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Baked Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on 6.0
+1/2 teaspoon coarse salt 0.5
+1/2 teaspoon Mrs. Dash seasoning 0.5
+1/4 teaspoon freshly ground black pepper 0.25
+Instructions:
+No instruction lines available.
+
+Recipe: Catalan Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956
+Meal Type: lunch/dinner
+Dish Type: condiments and sauces
+Ingredients:
+1 whole 4-pound chicken, quartered 1.0
+8 slices bacon 8.0
+30 cloves garlic 30.0
+3 lemons, peeled, rinds thinly sliced and reserved 3.0
+½ cup Banyuls or another fortified dessert wine 0.5
+1 cup veal or chicken stock 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Stew
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 pound chicken cut in pieces 1.0
+4 carrots 4.0
+1 onion 1.0
+1 leek 1.0
+1 green pepper 1.0
+kosher salt 0.0
+Freshly ground black pepper 0.0
+Extra Virgin Olive Oil 0.0
+1 cup white wine 1.0
+Chicken broth 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Persian Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+2 large onions 2.0
+750 g chicken 750.0
+500 g mushrooms 500.0
+1 cup water 1.0
+1 cup red wine 1.0
+2 teaspoons chicken stock 2.0
+200 ml mayonnaise 200.0
+200 ml cream 200.0
+small bunch of parsley 1.0
+1 teaspoon curry powder 1.0
+Instructions:
+No instruction lines available.
+
+Recipe: Kreplach (Chicken Dumplings)
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1½ teaspoons canola oil 1.5
+½ small shallot, finely chopped 0.5
+1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
+⅔ cup (about ¼ pound) chicken skin and fat (reserved from the 3 chicken thighs) 0.25
+2 chicken livers (optional) 2.0
+2 garlic cloves, finely chopped 2.0
+¼ cup finely chopped chives, plus extra for serving 0.25
+1¼ teaspoons kosher salt 1.25
+¾ teaspoon freshly ground black pepper 0.75
+30 to 34 square wonton wrappers 32.0
+8 cups store-bought or homemade chicken broth 8.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken cacciatore
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a6ee2e431ba83557209f48e1cf194f2f
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+8 tbsp olive oil 8.0
+1 onion, sliced 1.0
+2 celery stalks, roughly chopped 2.0
+2 medium carrots, roughly chopped 2.0
+6 chicken breasts, or chicken thighs, bones removed 6.0
+175ml/6fl oz white wine 175.0
+3 tbsp tomato purée 3.0
+500ml/17 fl oz chicken stock 500.0
+2 bay leaves 2.0
+2-3 sage leaves 2.5
+1 rosemary sprig 1.0
+250g/9oz easy-cook polenta 250.0
+Knob of butter 1.0
+25g/1oz parmesan 25.0
+Instructions:
+No instruction lines available.
+
+Recipe: Roast Chicken
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_690c3797b4f56fc1e119c14096d651c5
+Meal Type: lunch/dinner
+Dish Type: main course
+Ingredients:
+1 whole chicken, about 3-4 pounds 3.5
+-- Salt and fresh-ground pepper, to taste 0.0
+3 to 4 sprigs thyme, or other herbs 3.5
+-- Olive oil, to taste 0.0
+-- Chicken stock (optional) 0.0
+Instructions:
+No instruction lines available.
+
+Recipe: Chicken Crêpes
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_5ab36d4181b4f838057a0b46ac7df041
+Meal Type: lunch/dinner
+Dish Type: desserts
+Ingredients:
+3 tablespoons grated Parmesan cheese 3.0
+¼ cup heavy cream 0.25
+12 savory crêpes 12.0
+2 cups white and dark meat from poached chicken , cut into ½-inch cubes 2.0
+Instructions:
+No instruction lines available.
+
