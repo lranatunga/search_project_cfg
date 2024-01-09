@@ -39,7 +39,7 @@ def request():
     user_request = input("Enter an ingredient: ")
     result_recipes = search_recipe(user_request)
     #print(user_request)
-    #print(result_recipes)
+    print(result_recipes)
 
     if not result_recipes:
         print(f"No recipes found for {user_request}.")
@@ -55,7 +55,6 @@ def request():
             
             ingredients = recipe['ingredients']
             
-            # Iterating through ingredients list
             for ingredient_info in ingredients:
                 print(f"{ingredient_info['text']} {ingredient_info['quantity']}")
                 #print(f"Quantity: {ingredient_info['quantity']}")
@@ -127,7 +126,32 @@ def nutrient_analys():
                 json=recipe_data
             )
 
-            print(response_nutrient_analysis.json())
+            recipe_nutrient_analysis = response_nutrient_analysis.json()
+            print(recipe_nutrient_analysis)
+
+            print(f"Calories: {recipe_nutrient_analysis['calories']} kcal")
+
+            calories = recipe_nutrient_analysis['totalNutrients']['ENERC_KCAL']['quantity']
+            calories_unit = recipe_nutrient_analysis['totalNutrients']['ENERC_KCAL']['unit']
+            print(f"Total Calories: {calories} {calories_unit}")
+
+            fat_quantity = recipe_nutrient_analysis['totalNutrients']['FAT']['quantity']
+            fat_unit = recipe_nutrient_analysis['totalNutrients']['FAT']['unit']
+            print(f"Total lipid (Fat): {fat_quantity} {fat_unit}")
+
+            total_saturated = recipe_nutrient_analysis['totalNutrients']['FASAT']['quantity']
+            total_saturated_unit = recipe_nutrient_analysis['totalNutrients']['FASAT']['unit']
+            print(f"Total Saturated Fatty Acid: {total_saturated} {total_saturated_unit}")
+
+            total_trans = recipe_nutrient_analysis['totalNutrients']['FATRN']['quantity']
+            total_trans_unit = recipe_nutrient_analysis['totalNutrients']['FATRN']['unit']
+            print(f"Total Trans Fatty Acid: {total_trans} {total_trans_unit}")
+
+            total_mono = recipe_nutrient_analysis['totalNutrients']['FAMS']['quantity']
+            total_mono_unit = recipe_nutrient_analysis['totalNutrients']['FAMS']['unit']
+            print(f"Total Mono-saturated Fatty Acid: {total_mono} {total_mono_unit}")
+
+            print("\n Thanks for searching recipes with us")
         else:
             print("Requested recipe not found in the saved file.")
     else:
