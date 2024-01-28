@@ -18,8 +18,8 @@ Ingredients:
 375g/13oz plain flour 375.0
 Pinch salt 1.0
 225g/8oz butter, diced 225.0
-150g/5½oz mature cheddar cheese 150.0
-50g/1¾oz freshly grated parmesan cheese (or a similar vegetarian hard cheese) 50.0
+150g/5ï¿½oz mature cheddar cheese 150.0
+50g/1ï¿½oz freshly grated parmesan cheese (or a similar vegetarian hard cheese) 50.0
 Pinch english mustard powder 1.0
 Small pinch cayenne pepper 1.0
 2 free-range eggs, yolks only 2.0
@@ -91,7 +91,7 @@ Nonstick cooking spray 0.0
 8 ounces dried whole-grain elbow macaroni 8.0
 4 teaspoons butter 4.0
 2 tablespoons all-purpose flour 2.0
-½ teaspoon salt 0.5
+ï¿½ teaspoon salt 0.5
 Recipe: The Crispy Egg
 URI: http://www.edamam.com/ontologies/edamam.owl#recipe_db742742099859a8053b992dd3c1f452
 Meal Type: lunch/dinner
@@ -149,7 +149,7 @@ Ingredients:
 1 large egg 1.0
 1 pinch salt 1.0
 2 tablespoons all-purpose flour 2.0
-¼ cup milk (whole preferable) 0.25
+ï¿½ cup milk (whole preferable) 0.25
 butter for frying 0.0
 brown sugar or other topping 0.0
 Instructions:
@@ -184,8 +184,8 @@ Ingredients:
 2 cups heavy whipping cream 2.0
 1 dozen egg yolks 12.0
 2 Tbsp. vanilla extract 2.0
-½ tsp. nutmeg , plus more to taste 0.5
-1½ cups sugar 1.5
+ï¿½ tsp. nutmeg , plus more to taste 0.5
+1ï¿½ cups sugar 1.5
 4 cups half and half 4.0
 Instructions:
 No instruction lines available.
@@ -255,14 +255,14 @@ Ingredients:
 640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart) 640.0
 1/2 teaspoon salt 0.5
 1/4 teaspoon black pepper 0.25
-1 tablespoon butter – cultured unsalted (or olive oil) 1.0
+1 tablespoon butter ï¿½ cultured unsalted (or olive oil) 1.0
 240 grams onion sliced thin (1 large onion) 1.0
 70 grams Anaheim pepper chopped (1 large pepper) 1.0
 25 grams paprika (about 1/4 cup) 0.25
 1 cup chicken stock 1.0
 1/2 teaspoon salt 0.5
 1/2 cup sour cream 0.5
-1 tablespoon flour – all-purpose 1.0
+1 tablespoon flour ï¿½ all-purpose 1.0
 Instructions:
 No instruction lines available.
 
@@ -287,7 +287,7 @@ Ingredients:
 8 slices bacon 8.0
 30 cloves garlic 30.0
 3 lemons, peeled, rinds thinly sliced and reserved 3.0
-½ cup Banyuls or another fortified dessert wine 0.5
+ï¿½ cup Banyuls or another fortified dessert wine 0.5
 1 cup veal or chicken stock 1.0
 Instructions:
 No instruction lines available.
@@ -333,9 +333,9 @@ URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c
 Meal Type: lunch/dinner
 Dish Type: main course
 Ingredients:
-1½ teaspoons canola oil 1.5
-½ small shallot, finely chopped 0.5
-1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
+1ï¿½ teaspoons canola oil 1.5
+ï¿½ small shallot, finely chopped 0.5
+1 cup (about ï¿½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
 Recipe: Chicken Vesuvio
 URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6
 Meal Type: lunch/dinner
@@ -586,345 +586,5 @@ Chicken broth 0.0
 Instructions:
 No instruction lines available.
 
-Recipe: Persian Chicken
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-2 large onions 2.0
-750 g chicken 750.0
-500 g mushrooms 500.0
-1 cup water 1.0
-1 cup red wine 1.0
-2 teaspoons chicken stock 2.0
-200 ml mayonnaise 200.0
-200 ml cream 200.0
-small bunch of parsley 1.0
-1 teaspoon curry powder 1.0
-Instructions:
-No instruction lines available.
 
-Recipe: Kreplach (Chicken Dumplings)
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-1Â½ teaspoons canola oil 1.5
-Â½ small shallot, finely chopped 0.5
-1 cup (about Â½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped 0.5
-â…” cup (about Â¼ pound) chicken skin and fat (reserved from the 3 chicken thighs) 0.25
-2 chicken livers (optional) 2.0
-2 garlic cloves, finely chopped 2.0
-Â¼ cup finely chopped chives, plus extra for serving 0.25
-1Â¼ teaspoons kosher salt 1.25
-Â¾ teaspoon freshly ground black pepper 0.75
-30 to 34 square wonton wrappers 32.0
-8 cups store-bought or homemade chicken broth 8.0
-Instructions:
-No instruction lines available.
-
-Recipe: Chicken cacciatore
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a6ee2e431ba83557209f48e1cf194f2f
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-8 tbsp olive oil 8.0
-1 onion, sliced 1.0
-2 celery stalks, roughly chopped 2.0
-2 medium carrots, roughly chopped 2.0
-6 chicken breasts, or chicken thighs, bones removed 6.0
-175ml/6fl oz white wine 175.0
-3 tbsp tomato purÃ©e 3.0
-500ml/17 fl oz chicken stock 500.0
-2 bay leaves 2.0
-2-3 sage leaves 2.5
-1 rosemary sprig 1.0
-250g/9oz easy-cook polenta 250.0
-Knob of butter 1.0
-25g/1oz parmesan 25.0
-Instructions:
-No instruction lines available.
-
-Recipe: Roast Chicken
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_690c3797b4f56fc1e119c14096d651c5
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-1 whole chicken, about 3-4 pounds 3.5
--- Salt and fresh-ground pepper, to taste 0.0
-3 to 4 sprigs thyme, or other herbs 3.5
--- Olive oil, to taste 0.0
--- Chicken stock (optional) 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Chicken CrÃªpes
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_5ab36d4181b4f838057a0b46ac7df041
-Meal Type: lunch/dinner
-Dish Type: desserts
-Ingredients:
-3 tablespoons grated Parmesan cheese 3.0
-Â¼ cup heavy cream 0.25
-12 savory crÃªpes 12.0
-2 cups white and dark meat from poached chicken , cut into Â½-inch cubes 2.0
-Instructions:
-No instruction lines available.
-
-Recipe: The Crispy Egg
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_db742742099859a8053b992dd3c1f452
-Meal Type: lunch/dinner
-Dish Type: starter
-Ingredients:
-1 glug olive oil or cooking fat of your choice 1.0
-1 egg, any size 1.0
-Salt, pepper, herbs, spices or hot sauce, or all of the above 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Noodle
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b958fb2af215767c51d7545e2f86a722
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-2 cups all-purpose flour 2.0
-1 cup semolina flour (plus extra for the board) 1.0
-1/2 teaspoon salt 0.5
-2 eggs, plus 4 egg yolks, beaten together 2.0
-2 eggs, plus 4 egg yolks, beaten together 4.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Sandwich
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_933bb646e98e78fd55259e9c743a93cc
-Meal Type: lunch/dinner
-Dish Type: sandwiches
-Ingredients:
-1 ounce fontina fontal cheese 1.0
-2 slices extra-smoky, extra-thick cut bacon 2.0
-1 English muffin, split 1.0
-1 large egg 1.0
-Coarse salt and freshly ground pepper 0.0
-Coarse salt and freshly ground pepper 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Nests recipes
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_4f1d223cf3c5f30b53c6d972d2ea98ec
-Meal Type: lunch/dinner
-Dish Type: starter
-Ingredients:
-2 eggs 2.0
-1/8 teaspoon Kosher salt (a pinch of salt per egg) 0.125
-1/4 cup grated Gruyere cheese 0.25
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Pancakes
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_555ecd7b216b8fa941384415a8053d61
-Meal Type: breakfast
-Dish Type: pancake
-Ingredients:
-1 large egg 1.0
-1 pinch salt 1.0
-2 tablespoons all-purpose flour 2.0
-Â¼ cup milk (whole preferable) 0.25
-butter for frying 0.0
-brown sugar or other topping 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Sunny Egg Ravioli
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_139d4b93784f42c3264f3801d54c5923
-Meal Type: lunch/dinner
-Dish Type: main course
-Ingredients:
-200 g Flour, Italian Type 00 200.0
-2 x Eggs 2.0
-Salt 0.0
-200 g Ricotta 200.0
-1-2 tbsp Olive Oil 1.5
-1 handful freshly grated Parmesan 1.0
-fresh herbs, mixed like basil, parsley,thyme 0.0
-1 x Red Chilli chopped 1.0
-Freshly ground black pepper to taste 0.0
-freshly ground nutmeg 0.0
-Sea Salt 0.0
-Egg Yolks 0.0
-Egg White 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Nog
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a82cfd564d2c8ee62cfe834722b73f7d
-Meal Type: breakfast
-Dish Type: drinks
-Ingredients:
-2 cups heavy whipping cream 2.0
-1 dozen egg yolks 12.0
-2 Tbsp. vanilla extract 2.0
-Â½ tsp. nutmeg , plus more to taste 0.5
-1Â½ cups sugar 1.5
-4 cups half and half 4.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Muffin
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_92f86a550d28a48fe348ac5d9ab68eb1
-Meal Type: breakfast
-Dish Type: desserts
-Ingredients:
-1 whole wheat english muffin 1.0
-3 egg whites 3.0
-1/2 teaspoon olive oil 0.5
-1 veggie sausage patty 1.0
-1 small banana 1.0
-Instructions:
-No instruction lines available.
-
-Recipe: Egg Nog
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_1d8858a3b279938afd4d46e980b0bb2a
-Meal Type: breakfast
-Dish Type: drinks
-Ingredients:
-1 oz. Baileys Irish Cream 1.0
-.25 oz. Bushmills Original Irish Whiskey 0.25
-1 whole egg 1.0
-2 cups milk 2.0
-1 pinch nutmeg 1.0
-Instructions:
-No instruction lines available.
-
-Recipe: Microwaved Poached Egg
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_38c8916ecc55f1ddc521b80846138977
-Meal Type: lunch/dinner
-Dish Type: starter
-Ingredients:
-1 Cup water 1.0
-1 egg 1.0
-1 Teaspoon vinegar 1.0
-Instructions:
-No instruction lines available.
-
-Recipe: Milk Liqueur
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_95661be6f77a57b4c85c789a3b737ada
-Meal Type: lunch/dinner
-Dish Type: alcohol cocktail
-Ingredients:
-2 1/2 cups grappa or unflavored vodka 2.5
-2 cups whole milk 2.0
-2 cups sugar 2.0
-2 ounces bittersweet chocolate (preferably 70%), grated 2.0
-1/2 lemon, seeded and chopped, with rind 0.5
-Instructions:
-No instruction lines available.
-
-Recipe: Milk Punch
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_70b4465eaee604e8f23ed1f9df2f37ac
-Meal Type: breakfast
-Dish Type: drinks
-Ingredients:
-5 cups of a mixture of whole milk and half-and-half (4:1 is suggested, but I might go more like 3:2 next time) 5.0
-5 cups of a mixture of whole milk and half-and-half (4:1 is suggested, but I might go more like 3:2 next time) 0.0
-1 1/2 cups bourbon, another whiskey or brandy 1.5
-1 cup powdered sugar, sifted 1.0
-1 tablespoon vanilla extract 1.0
-Freshly grated nutmeg, for garnish. 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Strawberry Milk
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_290727e0c9bc98848a7f0225c80e4314
-Meal Type: lunch/dinner
-Dish Type: drinks
-Ingredients:
-1-2 cups milk 1.5
-A handful of strawberries, rinsed, stems removed 1.0
-1 to 3 Tbsp honey 2.0
-Instructions:
-No instruction lines available.
-
-Recipe: Strawberry milk pops
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_17f83b1c1c844c54d12cf605b81ea9ca
-Meal Type: lunch/dinner
-Dish Type: desserts
-Ingredients:
-400g ripe strawberry 400.0
-200ml semi-skimmed milk 200.0
-405g can light condensed milk 405.0
-Instructions:
-No instruction lines available.
-
-Recipe: Milk Peas
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_3ece6114847ddec1d156d118ef4c0f51
-Meal Type: lunch/dinner
-Dish Type: drinks
-Ingredients:
-2 1/2 cups fresh peas 2.5
-1 1/2 cup whole milk 1.5
-Salt 0.0
-4 pats unsalted butter 4.0
-Freshly grated zest of 1/2 lemon 0.5
-Freshly ground black pepper 0.0
-Instructions:
-No instruction lines available.
-
-Recipe: Milk Kefir
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f1f1c372e41626fffd2174f2219d9cef
-Meal Type: breakfast
-Dish Type: drinks
-Ingredients:
-4 cups whole milk 4.0
-4 teaspoons active milk kefir grains (see Tip) 4.0
-Instructions:
-No instruction lines available.
-
-Recipe: Milk Punch
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f1ed389bd886fae051451da61bdf15fa
-Meal Type: lunch/dinner
-Dish Type: drinks
-Ingredients:
-1/2 cup granulated sugar 0.5
-1 1/2 cups whole milk 1.5
-1 1/2 cups heavy cream 1.5
-1 teaspoon pure vanilla extract 1.0
-1/2 teaspoon ground cinnamon 0.5
-1 cup bourbon 1.0
-Freshly grated nutmeg, for serving 1.0
-Instructions:
-No instruction lines available.
-
-Recipe: Caramelized Milk
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_cb630ff21c4f22ee7d0ba27864e41006
-Meal Type: lunch/dinner
-Dish Type: desserts
-Ingredients:
-4 cups milk 4.0
-1Â¼ cups sugar 1.25
-1 vanilla bean or 1 teaspoon pure vanilla extract 1.0
-Â¼ teaspoon baking soda 0.25
-Instructions:
-No instruction lines available.
-
-Recipe: Momofuku Milk Bar's Cereal Milk Recipe
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_804f44a01c32d550876135c86dc45de2
-Meal Type: breakfast
-Dish Type: starter
-Ingredients:
-2 Â¾ cups (100 grams) cornflakes 100.0
-3 Â¾ cups (825 grams) cold milk 825.0
-2 tablespoons (30 grams) light brown sugar, tightly packed 30.0
-Â¼ teaspoon (1 gram) kosher salt 1.0
-Instructions:
-No instruction lines available.
-
-Recipe: Avocado Milk
-URI: http://www.edamam.com/ontologies/edamam.owl#recipe_dbe37a30e50b56c3fdf165aa8345543f
-Meal Type: breakfast
-Dish Type: drinks
-Ingredients:
-1 large ripe avocado 1.0
-2-3 tablespoons granulated sugar to taste 2.5
-1 1/2 cups ice cold skim milk 1.5
-Instructions:
-No instruction lines available.
 
